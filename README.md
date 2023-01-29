@@ -19,5 +19,5 @@ Have you ever wanted to try truly fresh pizza from a homemade brick oven? Well n
 
 ## Useful Information
 
-IP address: http://3.13.23.247/
+IP address: http://3.13.23.247/ <br>
 SSH command: ssh -i id_rsa.pem ubuntu@3.145.4.8
