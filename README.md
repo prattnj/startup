@@ -16,3 +16,8 @@ Have you ever wanted to try truly fresh pizza from a homemade brick oven? Well n
 * Order information is securely stored as well as account information
 * Record of the order and transaction is stored and sent to business owners
 * Order and time is placed on business owner's Google Calendar
+
+## Useful Information
+
+IP address: http://3.13.23.247/
+SSH command: ssh -i id_rsa.pem ubuntu@3.145.4.8
